@@ -7,7 +7,7 @@
 
 **About Dataset**: <br></br>
 
-**Let's understand what is Bitcoin and What is Bitcoin Time Series Forecasting:** <br></br>
+**Let's understand what is Bitcoin and What is Bitcoin Time Series Forecasting?** <br></br>
 
 Bitcoin is the longest running and most well known cryptocurrency, first released as open source in 2009 by the anonymous Satoshi Nakamoto. Bitcoin serves as a decentralized medium of digital exchange, with transactions verified and recorded in a public distributed ledger (the blockchain) without the need for a trusted record keeping authority or central intermediary. Transaction blocks contain a SHA-256 cryptographic hash of previous transaction blocks, and are thus "chained" together, serving as an immutable record of all transactions that have ever occurred.
 As with any currency/commodity on the market, bitcoin trading and financial instruments soon followed public adoption of bitcoin and continue to grow.<br>

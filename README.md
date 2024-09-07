@@ -18,6 +18,7 @@ As with any currency/commodity on the market, bitcoin trading and financial inst
 
 TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. It was developed by the Google Brain team for Google's internal use in research and production. <br></br>
 
+
 **What is a Time Series Forecasting?** <br></br>
 
 Time series forecasting is a technique that uses historical data to predict future values over a period of time. It's a type of predictive analytics that involves building models based on historical data to make observations and guide future decisions <br></br>
